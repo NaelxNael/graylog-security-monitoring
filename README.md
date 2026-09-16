@@ -152,3 +152,4 @@ Some possible extensions were:
 - collecting Windows security events from the domain controller;
 - creating detection rules for unusual authentication activity, such as connections from unexpected public IP addresses;
 - integrating some detections with external automation for response actions.
+
