@@ -135,15 +135,6 @@ This makes configuration changes easier to notice without relying only on manual
 
 ![Firebox configuration change events](screenshots/screenFireboxConfigEvents.png)
 
-## Technical Challenges
-
-Some of the main issues encountered during the project were:
-
-- adapting the parsing to different vendor log formats;
-- troubleshooting the order of Graylog message processors and GeoIP enrichment;
-- configuring permissions and automatic updates for the MaxMind databases;
-- dealing with log sources that generated too much noise for their actual monitoring value.
-
 ## Notes and Future Work
 
 The Firebox integration is the most developed part of the project.
